@@ -21,4 +21,4 @@ npm run dev
 - The deployment process is same as we deploy our React App
 - But there was some problem initially.
 - The file path was not correct so we have to correct it manually in ```index.html``` and its ```subsequent JS file.```
-- The file path was changed from ```/assets/...``` to ```assets/...``` so that the GitHub Pages could access the assests folder in the same branch. 
+- The file path was changed from ```/assets/...``` to ```assets/...``` so that the GitHub Pages could access the assets folder in the same branch. 
